@@ -7,14 +7,14 @@ FUNCTIONALITIES :
  
 ![1111](https://user-images.githubusercontent.com/88018904/177057239-dd37e2f6-6ddf-4c72-9a9a-0ad4feff1b0f.png)
 
+2. Face Ditection 
+  
+![faceRecognition_FaceDetection](https://user-images.githubusercontent.com/88018904/177057253-13f8d03d-4724-4528-b564-4c1b175a2f9a.png)
 
-2. Attendence Recording 
+3. Attendence Recording 
 
 ![Attendence recoder](https://user-images.githubusercontent.com/88018904/177057244-a48ec845-3fc2-4bda-ba21-b6060a50d8e6.png)
 
-3. Face Ditection 
-  
-![faceRecognition_FaceDetection](https://user-images.githubusercontent.com/88018904/177057253-13f8d03d-4724-4528-b564-4c1b175a2f9a.png)
 
 
 my contribution:
